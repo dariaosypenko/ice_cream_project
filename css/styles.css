@@ -1,0 +1,36 @@
+a {
+  text-decoration: none;
+}
+
+ul {
+  list-style-type: none;
+}
+
+body {
+    font-family: "Montserrat",sans-serif;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 24px;
+}
+footer {
+  background-color: #998431;
+}
+
+.best-taste-of-vine {
+  background-color: black;
+}
+
+.collections {
+  background-color: #e6e3c4;
+}
+
+.degustation {
+  background-color: black;
+}
+
+
+.hero {
+  background-image: /*linear-gradient(to right, white, black),*/ url(../images/four-bottles-and-glass.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
